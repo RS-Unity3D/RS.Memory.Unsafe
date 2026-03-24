@@ -1,0 +1,18 @@
+{
+    "name": "com.rs.memory.unsafe",
+    "rootNamespace": "RS.MemoryUnsafe",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY3D"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

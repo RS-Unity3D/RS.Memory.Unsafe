@@ -1,0 +1,15 @@
+{
+  "name": "com.rs.memory.unsafe",
+  "displayName": "RS.Memory.Unsafe",
+  "version": "1.0.0",
+  "unity": "5.6",
+  "description": "RS.Memory.Unsafe Same as the .netstandard Unsafe interface,Cross-platform Provide low-level memory manipulation and pointer control capabilities similar to C++,一个为 Unity5以及更高版本(比如unity2021/unity2022/unity2023/Unity6...) 和 .NET 2.0以及更高版本(比如.net3.5/.net4.0/.net4.5/.net4.8...)和基于标准库.NetStandard2.0/.NetStandard2.1编译版本（支持AOT编译），支持.NetCoreApp2.0以及更高版本(比如.netcore3.0/.net5/.net6/.net7/.net8/.net9/.net10...)。",
+  "repository": {
+    "type": "git",
+    "url": "http://127.0.0.1/rs/RS.Memory.Unsafe.git"
+  },
+  "author": "Rains",
+  "hideInEditor": false,
+  "homepage": "http://127.0.0.1/rs/RS.Memory.Unsafe.git",
+  "license": "AGPL 3.0"
+}

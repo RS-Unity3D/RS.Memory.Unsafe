@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="RS.MemoryPinned\**" />
+    <EmbeddedResource Remove="RS.MemoryPinned\**" />
+    <None Remove="RS.MemoryPinned\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RS.MemoryPinned\RS.MemoryPinned.csproj" />
+  </ItemGroup>
+
+</Project>
